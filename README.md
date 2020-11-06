@@ -2,10 +2,9 @@
 
 This contains R scripts and data used for the anatomical analysis of LC6 and downstream neurons. Most EM figures (except connectivity matrices) were generated using this code.  First run "startup.R" and follow the instructions therein.
 
-However, if you only want to generate a particular figure, then load the workspace file (contains already processed variables). You need to unzip them into one file first.
-- LC6_Analysis_workspace.7z.001
-- LC6_Analysis_workspace.7z.002
-- LC6_Analysis_workspace.7z.003
+However, if you only want to generate a particular figure, you can load the workspace file (you need to unzip them first)
+full workspace_20201105.7z
+LC6_proc_data.7z
 
 After this, look for the figure of interest by searching, eg.  "Figure 6C". Then you need to run the whole blocks.
 
